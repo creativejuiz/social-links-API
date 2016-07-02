@@ -126,9 +126,10 @@ Social Links API (Slapi) provides you a list of networks that allow you to share
 
 <div id="howto"></div>
 ## How to contribute
-The best way to contribute this little list is by doing a Pull Request to complete the `readme.md` file.
+The best way to contribute this little list is by **forking** this repository, **modifying the `dev` branch** and **doing a Pull Request**. There is only a `readme.md` file to complete.
+To do it well, you can use your favorite `.md` file editor, I actually use [Typora](http://www.typora.io/) to do so.
 
-If you're not at ease with Git, you may also simply [open a new issue](https://github.com/creativejuiz/social-links-API/issues/new?title=New%20API%20for%20...&amp;body=Link%20example:%0ADocumentation%20%28if%20you%20found%20one%29:) and put as subject "New API for [THE NAME OF THE SERVICE]". In your message, please provide a link example, like the links presented in that list, and provide a documentation link if you found one.
+If you're not at ease with Git processes, you may also simply [open a new issue](https://github.com/creativejuiz/social-links-API/issues/new?title=New%20API%20for%20...&body=Link%20example:%0ADocumentation%20%28if%20you%20found%20one%29:) and put as subject "New API for [THE NAME OF THE SERVICE]". In your message, please provide a link example, like the links presented in that list, and provide a documentation link if you found one.
 
 By contributing, your name will be added in the About section of this file. Feel free to do it your self if you use the Pull Request way.
 
